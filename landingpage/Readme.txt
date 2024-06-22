@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Append
-Template URL: https://bootstrapmade.com/append-bootstrap-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+biotechtrek is a educational website.where students can make there notes
